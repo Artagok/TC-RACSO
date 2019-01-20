@@ -4,7 +4,7 @@
 
 + :heavy_check_mark: **DFA** = Deterministic Finite Automata
 + :x: **CFG** = Context-Free Grammars
-+ :x: **REG** = Regular Operations
++ :heavy_check_mark: **REG** = Regular Operations
 + :x: **PDA** = Push-Down Automata
 + :x: **K** = Reductions
 + :x: **WP** = Word Problem (Reachability)

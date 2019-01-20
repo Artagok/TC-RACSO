@@ -1,0 +1,7 @@
+main
+{
+  a = "a"; 
+  b = "b";
+  ab = a | b;
+  output (ab* a a a ab*) & (ab* b b b ab*) & (ab* a b a ab*) & (ab* b a b ab*);
+}

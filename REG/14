@@ -1,0 +1,21 @@
+main
+{
+  a 	= "a";
+  2a 	= a a;
+  4a	= 2a 2a;
+  6a	= 4a 2a;
+  
+  path1 = 4a 4a 2a;
+  path2 = (4a 6a 2a)* 4a 4a 2a;
+  path3 = (4a 4a 4a)* 4a 4a 2a;
+  path4 = (4a 4a 2a 4a 2a)* 4a 4a 2a;
+  
+  path5 = (4a 6a 2a)* (4a 4a 4a)* 4a 4a 2a;
+  path6 = (4a 6a 2a)* (4a 4a 2a 4a 2a)* 4a 4a 2a;
+  path7 = (4a 4a 4a)* (4a 4a 2a 4a 2a)* 4a 4a 2a;
+  path8 = (4a 4a 4a)* (4a 6a 2a)* (4a 4a 2a 4a 2a)* 4a 4a 2a;
+
+  
+  output (path1 | path2 | path3 | path4 | path5 | path6 | 
+	  path7 |path8);
+}

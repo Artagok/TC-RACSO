@@ -1,0 +1,11 @@
+main
+{
+  a = "a";
+  b = "b";
+  c = "c";
+  abc = (a | b | c);
+  
+  r0 = (abc* (a | c) abc);
+  rf = substitution (r0, "a" -> "aba", "b" -> "aa", "c" -> "b");
+  output rf;
+}

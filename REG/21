@@ -1,0 +1,17 @@
+main
+{
+  0 = "0";
+  1 = "1";
+  01 = (0 | 1);
+  2_01 = (0 0 | 1 1);
+  3_01 = (0 0 0 | 1 1 1);
+  
+  //w1 desempata amb w2 alhora que w3 amb w2
+  e1 = (3_01)* (1 0 1) (01 01 01)*;
+  //w1 desempata primer amb w2 i despres w3 amb w2
+  e2 = (3_01)* (1 0 0) (01 2_01)* (01 0 1) (01 01 01)*;
+  //w1 desempata amb w2 despres de w3 amb w2
+  e3 = (3_01)* (0 0 1) (2_01 01)* (1 0 01) (01 01 01)*;
+  
+  output e1 | e2 | e3;
+}

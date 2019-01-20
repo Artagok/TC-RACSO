@@ -1,0 +1,8 @@
+main
+{
+  a = "a";
+  b = "b";
+  ab = a | b;
+  bbb = "bbb";
+  output (ab* bbb ab*) & (ab* a ab ab ab ab ab);
+}

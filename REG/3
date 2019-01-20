@@ -1,0 +1,16 @@
+main
+{
+  a = "a";
+  b = "b";
+  ab = a | b;
+  aaa = "aaa";
+  bbb = "bbb";
+  
+  uA = (ab* aaa ab*);
+  dA = (ab* aaa ab* aaa ab*) | (ab* aaa a ab*);
+  
+  rA = uA - dA;
+  rB = substitution (rA, "a" -> "b", "b" -> "a"); 
+  output rA & rB;
+  
+}
