@@ -1,0 +1,6 @@
+S -> A | AbQ
+
+A -> aAa | B 
+B -> b | bQb 
+
+Q -> aQ | bQ |

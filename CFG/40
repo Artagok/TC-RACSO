@@ -1,0 +1,3 @@
+S -> aSa | bSb | aTb | bTa
+T -> XTX | X | 
+X -> a | b

@@ -1,0 +1,4 @@
+S -> aCS | bCS | cUS | 
+
+C -> c | aCC | bCC
+U -> a | b | cUU

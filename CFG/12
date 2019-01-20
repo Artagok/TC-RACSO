@@ -1,0 +1,13 @@
+S -> PQ | RT | U
+
+// i = j 
+P -> aPb | 
+Q -> Qc | 
+
+// j = k
+R -> aR | 
+T -> bTc | 
+
+// k = i
+U -> aUc | W
+W -> bW |

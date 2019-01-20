@@ -1,0 +1,2 @@
+S -> aS | bS | T 
+T -> aTa | bTb | c 

@@ -3,7 +3,7 @@
 ## Teoria de la Computació 
 
 + :heavy_check_mark: **DFA** = Deterministic Finite Automata
-+ :x: **CFG** = Context-Free Grammars
++ :heavy_check_mark: **CFG** = Context-Free Grammars
 + :heavy_check_mark: **REG** = Regular Operations
 + :x: **PDA** = Push-Down Automata
 + :x: **K** = Reductions

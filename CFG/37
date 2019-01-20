@@ -1,0 +1,3 @@
+S -> bSa | bSb | aXa | aXb
+X -> bSa | bSb | aYa | aYb
+Y -> bYa | bYb | aYa | aYb | c
