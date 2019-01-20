@@ -1,0 +1,7 @@
+        a       b
+i       i       1b
+1b      ba      1b
+ba      i       bab
+bab     baba    1b
+baba    i       babab
+babab   baba    1b  +	

@@ -1,0 +1,12 @@
+	a	b
+i	_a	_b	+
+
+_a	aa	ab	+
+_b	ba	bb	+
+
+bb	rip	rip	+
+aa	rip	ab	+
+ab	ba	rip	+
+ba	aa	rip	+
+
+rip	rip	rip

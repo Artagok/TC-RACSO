@@ -1,0 +1,17 @@
+		a		b
+ini		a		b
+
+a		a		ab
+b		aba		bb
+
+ab		aba		abb	
+bb		bba		bb
+
+aba		aba		abab
+abb		done		abb
+bba		bba		done
+
+abab		aba		done
+
+done		done		done		+
+

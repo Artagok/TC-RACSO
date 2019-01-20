@@ -1,0 +1,9 @@
+	a	b	c
+i	_a	i	i	+
+_a	_a	ab	i	+
+ab	_a	i	abc	+
+abc	_a_	abc	abc	+
+
+_a_	_a_	_ab_	abc	+
+_ab_	_a_	abc	_abc_	+
+_abc_	_abc_	_abc_	_abc_	

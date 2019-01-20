@@ -1,0 +1,5 @@
+        a       b
+0a0b	1a0b	0a1b	+
+1a0b	0a0b	1a1b
+0a1b	1a1b	0a0b
+1a1b	0a1b	1a0b
