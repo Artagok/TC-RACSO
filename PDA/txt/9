@@ -1,0 +1,11 @@
+Z start end start
+a     -> Xa|Y, Ya|YX -> a
+a     -> X |X, Y |Y  -> b
+b     -> Xb|         -> b
+b     -> Yb|Y        -> bb
+b     -> Yb|         -> bbb
+b     -> Z |Z        -> end
+bb    -> Yb|         -> b
+bbb   -> Yb|         -> bbb
+bbb   -> Z |Z        -> end
+start -> Za|ZX       -> a

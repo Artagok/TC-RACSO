@@ -1,0 +1,19 @@
+Z 0 0 a
+0   -> Za|Z  -> a
+0   -> Zb|ZB -> b
+a   -> Za|ZA -> aa
+a   -> Zb|ZB -> b
+aa  -> Aa|AA -> aa
+aa  -> Ab|   -> aab
+aab -> Z |Z  -> 0
+aab -> Ab|   -> aab
+aab -> Aa|A  -> ba
+b   -> Bb|BB -> b
+b   -> Ba|B  -> ba1
+ba  -> Aa|AA -> aa
+ba  -> Ab|   -> aab
+ba1 -> Bb|BB -> b
+ba1 -> Ba|   -> baa
+baa -> Z |Z  -> a
+baa -> Bb|BB -> b
+baa -> Ba|   -> baa

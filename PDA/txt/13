@@ -1,0 +1,19 @@
+Z start start startB startC win1 win2
+a1     -> Aa|AA -> a1
+a1     -> Ab|   -> b
+a2     -> Aa|AA -> a2
+a2     -> Ab|A  -> b1
+a2     -> Ac|   -> c
+b      -> Ab|   -> b
+b      -> Z |Z  -> win1
+b1     -> Ab|A  -> b1
+b1     -> Ac|   -> c
+c      -> Ac|   -> c
+c      -> Z |Z  -> win2
+start  -> Za|ZA -> a1
+start  -> Za|ZA -> a2
+start  -> Zb|Z  -> startB
+start  -> Zc|Z  -> startC
+startB -> Zb|Z  -> startB
+startC -> Zc|Z  -> startC
+win1   -> Zc|Z  -> win1

@@ -1,0 +1,6 @@
+Z start end start
+q1    -> Aa|AA, Ba|BA, Ab|AB, Bb|BB -> q1
+q1    -> A |, B |, A |A, B |B       -> q2
+q2    -> Z |Z                       -> end
+q2    -> Aa|, Bb|                   -> q2
+start -> Za|ZA, Zb|ZB               -> q1

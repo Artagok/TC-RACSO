@@ -1,0 +1,12 @@
+Z q0 1b 2b q0
+1b  -> Yb|YB               -> 2b
+1b  -> Ya|X                -> a
+2b  -> Yb|YB, Bb|BB        -> 2b
+2b  -> Ya|X                -> a
+2b  -> Ba|                 -> aux
+a   -> Xa|XAA, Aa|AAA, Ab| -> a
+a   -> Xb|Z                -> q0
+aux -> B |                 -> 2b
+aux -> Y |                 -> q0
+q0  -> Zb|ZY               -> 1b
+q0  -> Za|ZXA              -> a

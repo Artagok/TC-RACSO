@@ -1,0 +1,20 @@
+Z start d e
+a1    -> Aa|AA -> a1
+a1    -> Ab|   -> b1
+a2    -> Za|Z  -> a2
+a2    -> Zb|ZB -> b2
+a2    -> Ze|Z  -> e
+b1    -> Ab|   -> b1
+b1    -> Z |Z  -> c1
+b2    -> Bb|BB -> b2
+b2    -> Bc|   -> c2
+c1    -> Zc|Z  -> c1
+c1    -> Zd|Z  -> d
+c2    -> Bc|   -> c2
+c2    -> Ze|Z  -> e
+start -> Za|ZA -> a1
+start -> Za|Z  -> a2
+start -> Zb|ZB -> b2
+start -> Zc|Z  -> c1
+start -> Zd|Z  -> d
+start -> Ze|Z  -> e

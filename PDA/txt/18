@@ -1,0 +1,4 @@
+Z start start
+obrir -> ((|((, ([|([, [[|[[, [(|[(, ()|, []| -> obrir
+obrir -> Z |Z                                 -> start
+start -> Z(|Z(, Z[|Z[                         -> obrir

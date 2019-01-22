@@ -1,0 +1,6 @@
+   Z q0 q0 q3
+   q0 -> Z |Z         -> q1
+   q1 -> Za|ZA, Aa|AA -> q1
+   q1 -> Ab|          -> q2
+   q2 -> Ab|          -> q2
+   q2 -> Z |Z         -> q3

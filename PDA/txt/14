@@ -1,0 +1,17 @@
+Z start a c start win win1
+a     -> Aa|AA -> a
+a     -> Ab|   -> ab1
+ab    -> Za|Z  -> ab
+ab    -> Zb|ZB -> b
+ab1   -> Ab|   -> ab1
+ab1   -> Z |Z  -> win1
+b     -> Bb|BB -> b
+b     -> Bc|   -> bc
+bc    -> Bc|   -> bc
+bc    -> Z |Z  -> win
+c     -> Zc|Z  -> c
+start -> Za|ZA -> a
+start -> Za|Z  -> ab
+start -> Zb|ZB -> b
+start -> Zc|Z  -> c
+win1  -> Zc|Z  -> win1

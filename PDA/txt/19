@@ -1,0 +1,16 @@
+Z start cstart win
+bstart -> Zb|Z                                  -> bstart
+bstart -> Zc|Z                                  -> cstart
+bstart -> Za|ZX                                 -> x
+c      -> Xb|                                   -> win
+c      -> Za|Z, Ab|, Aa|A, Xa|X                 -> y
+cstart -> Za|Z                                  -> cstart
+start  -> Zb|Z                                  -> bstart
+start  -> Zc|Z                                  -> cstart
+start  -> Za|ZX                                 -> x
+win    -> Za|Z                                  -> win
+x      -> Zc|Z, Ac|A, Xc|X                      -> c
+x      -> Za|ZA, Zb|Z, Aa|AA, Ab|A, Xa|XA, Xb|X -> x
+y      -> Xb|                                   -> win
+y      -> Za|Z, Ab|, Aa|A, Xa|X                 -> y
+

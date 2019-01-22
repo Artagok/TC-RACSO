@@ -1,0 +1,5 @@
+Z q0 q1
+q0 -> Za|ZX, Zb|ZY                         -> q1
+q1 -> Aa|AA, Ab|, Bb|BB, Ba|, Xa|XA, Yb|YB -> q1
+q1 -> Xb|, Ya|                             -> q2
+q2 -> Z |Z                                 -> q0

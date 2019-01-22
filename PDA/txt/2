@@ -1,0 +1,7 @@
+Z start start win
+a     -> Za|ZA, Aa|AA -> aa
+aa    -> Aa|A         -> a
+aa    -> Ab|          -> b
+b     -> Ab|          -> b
+b     -> Z |Z         -> win
+start -> Za|Z         -> a

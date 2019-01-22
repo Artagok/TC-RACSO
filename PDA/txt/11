@@ -1,0 +1,13 @@
+Z q0 q0 q0a
+a   -> Aa|AA            -> a
+a   -> Ab|              -> b
+a   -> Ac|              -> c
+b   -> Ab|              -> b
+b   -> Ac|              -> c
+b   -> Z |Z             -> q0a
+c   -> Ac|              -> c
+c   -> Z |Z             -> q0a
+q0  -> Za|ZA            -> a
+q0  -> Zb|Z, Zc|Z       -> rip
+q0a -> Za|Z, Zb|Z, Zc|Z -> rip
+rip -> Z |Z             -> rip

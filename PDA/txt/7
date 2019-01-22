@@ -1,0 +1,12 @@
+Z s a s
+a   -> Aa|AAA, Xa|XAA, Ab| -> a
+a   -> Xb|                 -> s
+b   -> Qb|Y                -> b1
+b   -> Qa|                 -> ext
+b1  -> Yb|YQ               -> b
+b1  -> Ya|                 -> b1
+b1  -> R |                 -> s
+ext -> R |X                -> a
+ext -> Y |Q                -> b
+s   -> Za|ZXA              -> a
+s   -> Zb|ZRQ              -> b
