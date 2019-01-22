@@ -1,0 +1,21 @@
+input y
+{
+  if (y < 1) { 	// Dom(p) = {0}
+    output y+1; // Im(p)  = {1}
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}
+		// Dom(p)∪Dom(q)∪Im(p)∪Im(q) = 4
+input y
+{
+  if (y == 3) { // Dom(q) = {3}
+    output y+1;	// Im(q)  = {4}
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}

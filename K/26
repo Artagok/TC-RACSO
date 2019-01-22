@@ -1,0 +1,15 @@
+input y
+{
+  if (y%2 == 0) {
+    if (not mxxstopsininputsteps)
+      accept;
+  }
+}
+
+input y
+{
+  if (y%2 == 1) {
+    if (not mxxstopsininputsteps)
+      accept;
+  }
+}

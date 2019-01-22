@@ -1,0 +1,21 @@
+input y
+{
+  if (y < 1) {
+    output y;
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}
+
+input y
+{
+  if (y < 1) {
+    output y;
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}

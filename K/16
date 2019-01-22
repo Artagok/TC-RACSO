@@ -1,0 +1,20 @@
+input y
+{
+  if (y == 1) {
+    if(not mxxstopsininputsteps)
+      accept;
+  }
+
+  else 
+    runmxx;
+}
+
+input y
+{
+ if (y == 1) {
+   runmxx;
+  }
+  else 
+    if (not mxxstopsininputsteps)
+      accept;
+}

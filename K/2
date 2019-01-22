@@ -1,0 +1,6 @@
+input y
+{
+  if(mxxstopsininputsteps)
+    infiniteloop;
+  accept;
+}

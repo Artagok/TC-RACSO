@@ -1,0 +1,7 @@
+// K <= (NO total V injective)
+
+input y
+{
+  if(not mxxstopsininputsteps)
+    output 1; // == accept
+}

@@ -1,0 +1,7 @@
+input y
+{
+  if (not mxxstopsininputsteps)
+    output (y == 1);
+  else 
+    output (y+1);
+}

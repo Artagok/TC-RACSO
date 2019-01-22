@@ -6,6 +6,6 @@
 + :heavy_check_mark: **CFG** = Context-Free Grammars
 + :heavy_check_mark: **REG** = Regular Operations
 + :heavy_check_mark: **PDA** = Push-Down Automata
-+ :x: **K** = Reductions
++ :heavy_check_mark: **K** = Reductions
 + :x: **WP** = Word Problem (Reachability)
 + :x: **RCFG** = Reductions of CFG

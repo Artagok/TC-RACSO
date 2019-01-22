@@ -1,0 +1,18 @@
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if (y < 1)
+      output y;
+  }
+  
+  else
+    output y;
+}
+
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if (y < 5)
+      output y;
+  }
+}

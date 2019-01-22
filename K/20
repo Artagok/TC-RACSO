@@ -1,0 +1,22 @@
+// p
+input y
+{
+  if (y < 1) {
+    output y;
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}
+// q
+input y
+{
+  if (y < 1) {
+    output y+1;
+  }
+  else {
+    runmxx;
+    accept;
+  }
+}

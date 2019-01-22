@@ -1,0 +1,10 @@
+input y
+{
+  if(not mxxstopsininputsteps)
+    accept;
+}
+
+input y
+{
+  runmxx;
+}
