@@ -1,0 +1,16 @@
+s(a) = bab
+s(b) = baab
+s($) = baaab
+
+s(u)
+s(v)
+
+s(l) -> s(r)
+s($)s(l) -> s($)s(r)
+
+// Ja no es pot usar $l -> $r ja que 
+// l'alfabet te com a molt 2 simbols, amb $ en tindria 3
+
+// {a,b,$}* --> {a,b}* a traves d'un morfisme 
+// que sigui injectiu (genera de forma univoca)
+

@@ -1,0 +1,11 @@
+s(#) = aba
+s(a) = abba
+s(b) = abbba
+
+s(#u)
+s(v)
+s(v#)
+
+s(#u) -> s(u)
+s(l) -> s(r)
+s(v) -> s(v#)

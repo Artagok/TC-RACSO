@@ -7,5 +7,5 @@
 + :heavy_check_mark: **REG** = Regular Operations
 + :heavy_check_mark: **PDA** = Push-Down Automata
 + :heavy_check_mark: **K** = Reductions
-+ :x: **WP** = Word Problem (Reachability)
++ :heavy_check_mark: **WP** = Word Problem (Reachability)
 + :x: **RCFG** = Reductions of CFG

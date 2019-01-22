@@ -1,0 +1,10 @@
+s(a) = bab
+s(b) = baab
+s($) = baaab
+
+s(u)
+s(v)
+
+s(l) -> s(r)
+s($)s(l) -> s($)s(r)
+s($) -> s($)
