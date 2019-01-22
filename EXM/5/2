@@ -1,0 +1,6 @@
+S -> BAabST | BAc
+
+B -> bB |
+A -> aA | 
+
+T -> a | b

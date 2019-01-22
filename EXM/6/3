@@ -1,0 +1,12 @@
+	a	b	c
+ini	f_a	f_b	f_c	+
+
+f_a	rip	f_b	f_ac	+
+f_b	f_ab	rip	f_c	+
+f_c	f_a	f_bc	rip	+
+
+f_ac	rip	f_bc	rip	+
+f_ab	rip	rip	f_ac	+
+f_bc	f_ab	rip	rip	+
+
+rip	rip	rip	rip

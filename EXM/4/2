@@ -1,0 +1,8 @@
+S -> aSc | AaP | TcC
+
+P -> bbP |
+
+T -> bbT | b
+
+A -> Aa | 
+C -> Cc | 

@@ -1,0 +1,19 @@
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if (y%2 == 0)
+      output 2*y+1;
+    else 
+      output 2*y;
+  }
+}
+
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if (y%2 == 0)
+      output 2*y;
+    else 
+      output 2*y+1;
+  }
+}

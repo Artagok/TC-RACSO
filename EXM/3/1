@@ -1,0 +1,4 @@
+S -> aSa | bSb | aTb | bTa
+T -> XTX |  
+
+X -> a | b

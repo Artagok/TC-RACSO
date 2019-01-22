@@ -1,0 +1,13 @@
+input y
+{
+  if (not mxxstopsininputsteps)
+    if (y%2 == 0)
+      output y;
+}
+
+input y
+{
+  if (not mxxstopsininputsteps)
+    if (y%2 == 1)
+      output y;
+}

@@ -1,0 +1,12 @@
+	a	b
+ini	a	b	+
+
+a	aa	ab	+
+b	ba	bb	+
+
+aa	rip	rip	+
+ab	rip	bb	+
+ba	rip	ab	+
+bb	ba	rip	+
+
+rip	rip	rip

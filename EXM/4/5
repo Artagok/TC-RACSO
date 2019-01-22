@@ -1,0 +1,6 @@
+S -> aT | bAS 
+
+A -> a | bAA
+B -> b | aBB
+
+T ->  aBT | bAT | 

@@ -1,0 +1,8 @@
+input y
+{
+  runmxx;
+  if (y%2 == 0)
+    output 0;
+  else 
+    output 1;
+}

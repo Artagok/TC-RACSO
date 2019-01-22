@@ -1,0 +1,17 @@
+	a	b	c
+ini	a	b	c
+
+a	a	ab	ac
+b	ba	b	bc
+c	ca	cb	c
+
+ab	ba	b	win
+ac	ca	win	c
+ba	a	ab	win
+bc	win	cb	c
+ca	a	win	ac
+cb	win	b	bc
+
+win 	win	win	win	+
+
+

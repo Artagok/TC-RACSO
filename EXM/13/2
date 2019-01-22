@@ -1,0 +1,5 @@
+input y
+{
+  if(not mxxstopsininputsteps)
+    output y*y*y;
+}

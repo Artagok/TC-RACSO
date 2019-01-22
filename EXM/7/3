@@ -1,0 +1,10 @@
+	a	b	c
+ini	a	b	ini	+
+
+a	a	rip	a_c	+
+a_c	a	rip	ini	+
+
+b	ba	b	rip	+
+ba	a	rip	rip	+
+
+rip	rip	rip	rip

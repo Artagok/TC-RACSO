@@ -1,0 +1,4 @@
+S -> bSQ | aTQ
+T -> bTQ | aRQ
+R -> bRQ | c
+Q -> a | b

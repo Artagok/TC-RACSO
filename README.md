@@ -11,3 +11,4 @@
 |**K**| Reductions | 3
 |**WP**| Word Problem (Reachability) | 3
 |**RCFG**| Reductions of CFG | 3
+|**EXM**| Past Exams | 1, 2, 3|

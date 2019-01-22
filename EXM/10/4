@@ -1,0 +1,21 @@
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if(y%2 == 0)
+      output y;
+    else 
+      output y+1;
+  }
+  else 
+    output y;
+}
+
+input y
+{
+  if(not mxxstopsininputsteps) {
+    if (y%2 == 0)
+      output y+1;
+    else 
+      output y;
+  }
+}
