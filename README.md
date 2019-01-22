@@ -2,10 +2,12 @@
 
 ## Teoria de la Computació 
 
-+ :heavy_check_mark: **DFA** = Deterministic Finite Automata
-+ :heavy_check_mark: **CFG** = Context-Free Grammars
-+ :heavy_check_mark: **REG** = Regular Operations
-+ :heavy_check_mark: **PDA** = Push-Down Automata
-+ :heavy_check_mark: **K** = Reductions
-+ :heavy_check_mark: **WP** = Word Problem (Reachability)
-+ :x: **RCFG** = Reductions of CFG
+| ID  | Nom complet | Parcial |
+|:---:|:-----------:|:-------:|
+|**DFA**| Deterministic Finite Automata | 1
+|**REG**| Regular Operations | 1
+|**CFG**| Context-Free Grammars | 2
+|**PDA**| Push-Down Automata | 2
+|**K**| Reductions | 3
+|**WP**| Word Problem (Reachability) | 3
+|**RCFG**| Reductions of CFG | 3

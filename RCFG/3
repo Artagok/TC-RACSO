@@ -1,0 +1,4 @@
+input g1,g2
+{
+  output "a"g1"a", "a"g2"a" | "b"g2"b", "b"g2"b";
+}

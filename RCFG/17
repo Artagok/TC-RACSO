@@ -1,0 +1,5 @@
+input g
+{
+ g1 = g ("a"|"b");
+  output g1 - "a" | "";
+}

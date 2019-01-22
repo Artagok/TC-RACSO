@@ -1,0 +1,4 @@
+input g
+{
+  output ("a"|"b")*, g;
+}

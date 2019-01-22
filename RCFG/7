@@ -1,0 +1,4 @@
+input g1,g2
+{
+  output "aa"g1|"bb"g1, "aa"g2|"bb"g2;
+}

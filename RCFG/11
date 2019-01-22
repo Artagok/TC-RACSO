@@ -1,0 +1,4 @@
+input g1,g2
+{
+  output g1, g2;
+}

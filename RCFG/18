@@ -1,0 +1,4 @@
+input g
+{
+ output g("a"|"b")("a"|"b") - "ab"| "" | "a" | "b";
+}

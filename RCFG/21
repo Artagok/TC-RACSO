@@ -1,0 +1,8 @@
+input g
+{
+  a = "S -> SaSbS | SbSaS |";
+  
+  g1 = substitution(g, "a" -> "ab", "b" -> "ba");
+  g2 = ("ab"|"ba")*;
+  output g1 | (a - g2);
+}

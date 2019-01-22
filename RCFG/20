@@ -1,0 +1,5 @@
+input g
+{
+  s = ("a"|"b")*;
+  output g "aa" | (s"aa"s - s"aa");
+}
